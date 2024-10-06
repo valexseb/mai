@@ -1,0 +1,2 @@
+# mai
+firesec config
